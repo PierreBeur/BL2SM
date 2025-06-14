@@ -8,10 +8,10 @@ node_modules
 
 # Distribution directories
 dist
+out
 
 .eslintcache
 
 # Editor directories and files
 .vscode
-.devcontainer
 .DS_Store
