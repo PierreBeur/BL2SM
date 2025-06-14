@@ -1,0 +1,17 @@
+# Logs
+*.log*
+
+.pnpm-store
+
+# Dependency directories
+node_modules
+
+# Distribution directories
+dist
+
+.eslintcache
+
+# Editor directories and files
+.vscode
+.devcontainer
+.DS_Store
