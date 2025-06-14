@@ -1,0 +1,21 @@
+{
+  "name": "bl2sm",
+  "version": "0.1.0",
+  "description": "Borderlands 2 Save Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Pierre Beurtheret",
+    "email": "pierrebeur0@gmail.com"
+  },
+  "private": true,
+  "repository": "github:PierreBeur/BL2SM",
+  "bugs": {
+    "url": "https://github.com/PierreBeur/BL2SM/issues"
+  },
+  "license": "GPL-3.0-only",
+  "packageManager": "pnpm@10.11.0"
+}
